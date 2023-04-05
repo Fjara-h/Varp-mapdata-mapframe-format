@@ -32,6 +32,3 @@ textarea.setAttribute("wrap", "off");
 textarea.readOnly = true;
 textarea.value = output;
 document.body.appendChild(textarea);
-
-
-console.log(output)
